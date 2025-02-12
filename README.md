@@ -9,5 +9,3 @@ Aplicación del método de Montecarlo para el cálculo del número pi mediante l
 ## Funcionamiento del programa
 
 Se ejecuta el programa introduciendo como parámetro el número de "dardos" o puntos que queramos generar de manera aleatoria, de tal forma que se calcule pi mediante la relación entre el área de un círculo y un cuadrado "ficticios".
-
-
